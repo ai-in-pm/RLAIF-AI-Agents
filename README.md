@@ -110,6 +110,9 @@ After running the RLAIF pipeline, you can find the following output files:
 - `data/preference_data.json`: Contains the generated preference pairs used for training
 - `outputs/demo_responses.json`: Contains example prompts and optimized responses
 
+![image](https://github.com/user-attachments/assets/c41e0497-0eb7-4579-a33f-e589dfbbd029)
+
+
 ## Troubleshooting
 
 ### Common Issues
